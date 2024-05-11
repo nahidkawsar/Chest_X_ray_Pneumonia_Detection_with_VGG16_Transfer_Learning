@@ -122,6 +122,8 @@ The process involves several key steps:
     test_input = test_img.reshape((1, 150, 150, 3))
     model.predict(test_input)
     ```
+![testing](https://github.com/nahidkawsar/Chest_X_ray_Pneumonia_Detection_with_VGG16_Transfer_Learning/assets/149723828/9c73a77f-6a74-4e58-a2ea-c8a1acf98520)
+
 
 ## Getting Started
 
